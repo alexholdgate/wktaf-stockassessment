@@ -27,3 +27,12 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 alexholdgate-wktaf-stockassessment.Rproj
+# Worksheet
+worksheet.R
+# Folder paths
+/bootstrap/data/
+/bootstrap/initial/
+/data/
+/model/
+/output/
+/report/
